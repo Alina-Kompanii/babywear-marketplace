@@ -1,0 +1,16 @@
+## Ignore Visual Studio temporary files, build results, etc.
+
+bin/
+obj/
+.vs/
+*.user
+*.csproj.user
+*.suo
+*.pdb
+*.cache
+*.tmp
+*.log
+
+## Ignore Windows image cache
+Thumbs.db
+desktop.ini
