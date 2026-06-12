@@ -51,22 +51,22 @@ Developed in C# with WinForms as a portfolio pet project.
 1. Main Menu & Personal Account
 Navigation menu, product categories, user profile, and helpful tips for parents.
 
-![Main Menu](screenshots/main-menu.png)
+[![Main Menu](screenshots/main-menu.png)](https://github.com/Alina-Kompanii/babywear-marketplace/blob/main/main-menu.png)
 
 2. Product Card (one of 29)
 Detailed product specifications including size range, color, age, season, fabric composition, country of origin, and "Add to Cart" button.
 
-![Product Card](screenshots/product-card.png)
+[![Product Card](screenshots/product-card.png)](https://github.com/Alina-Kompanii/babywear-marketplace/blob/main/cart.png)
 
 3. Shopping Cart
 View selected items, remove a single product, or clear the entire cart before proceeding to payment.
 
-![Shopping Cart](screenshots/cart.png)
+[![Shopping Cart](screenshots/cart.png)](https://github.com/Alina-Kompanii/babywear-marketplace/blob/main/product-card.png)
 
 4. Payment Form
 Customer information (name, phone, address), delivery method selection, card payment fields with helpful input hints.
 
-![Payment Form](screenshots/payment-form.png)
+[![Payment Form](screenshots/payment-form.png)](https://github.com/Alina-Kompanii/babywear-marketplace/blob/main/payment-form.png)
 
 ---
 
